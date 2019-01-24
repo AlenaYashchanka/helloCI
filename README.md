@@ -1,6 +1,4 @@
 hello_CI!!!!
-Some changes!!!
-More changes!!!
 =======
 
 Test projects for Git training
