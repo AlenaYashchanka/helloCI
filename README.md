@@ -1,4 +1,5 @@
 hello_CI!!!!
+Some changes...
 =======
 
 Test projects for Git training
